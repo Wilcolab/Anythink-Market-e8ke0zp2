@@ -127,7 +127,7 @@ class Profile extends React.Component {
       <div className="profile-page">
         <div className="container">
           <div className="row p-4">
-            <div className="user-info col-xs-12 col-md-8 offset-md-2">
+            <div className="user-info col-xs-12 col-md-7 offset-md-2">
               <img
                 src={profile.image}
                 className="user-img"
